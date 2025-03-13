@@ -5,3 +5,9 @@ I used the website timeanddate.com for New York City weather.
 Website: https://www.timeanddate.com/weather/usa/new-york
 The project collected the temperature, time of day, and weather condition of New York City.
 It will turn the data into a dataframe and save it into a CSV
+
+## Technologies Used
+- Python
+- BeautifulSoup (for web scraping)
+- Requests (for HTTP requests)
+- Pandas (for data handling)
